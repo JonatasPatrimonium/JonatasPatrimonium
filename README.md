@@ -23,18 +23,10 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolviment
 ## 📊 Nota de Engajamento
 
 <div align="center">
-  <a href="https://github.com/JonataSzLm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataszlm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataszlm&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/JonatasPatrimonium">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataspatrimonium&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspatrimonium&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Commits](https://img.shields.io/badge/Commits-1-blue?style=for-the-badge&logo=git)
-![Nível](https://img.shields.io/badge/Nível-Iniciante-lightgrey?style=for-the-badge&logo=star)
-
-**⭐☆☆☆☆**
-
-_A nota é calculada automaticamente com base no número de commits realizados neste repositório._
-
 ---
 <!-- ...existing code... -->
 -->
