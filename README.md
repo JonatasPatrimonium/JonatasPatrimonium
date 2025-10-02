@@ -19,18 +19,15 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolviment
 - 🌱 Explorando novas tecnologias e boas práticas
 
 
-<div align="center">
-  
-	<h2>📊 Nota de Engajamento</h2>
-  
-	<img src="https://img.shields.io/badge/Commits-1-blue?style=for-the-badge&logo=git" alt="Total de commits">
-	<img src="https://img.shields.io/badge/Nível-Iniciante-lightgrey?style=for-the-badge&logo=star" alt="Nível de Engajamento">
-  
-	<br><br>
-	<b>⭐☆☆☆☆</b>
-	<br>
-	<sub style="color:gray;">A nota é calculada automaticamente com base no número de commits realizados neste repositório.</sub>
-</div>
+
+## 📊 Nota de Engajamento
+
+![Commits](https://img.shields.io/badge/Commits-1-blue?style=for-the-badge&logo=git)
+![Nível](https://img.shields.io/badge/Nível-Iniciante-lightgrey?style=for-the-badge&logo=star)
+
+**⭐☆☆☆☆**
+
+_A nota é calculada automaticamente com base no número de commits realizados neste repositório._
 
 ---
 <!-- ...existing code... -->
