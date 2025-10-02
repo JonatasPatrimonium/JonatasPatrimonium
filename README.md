@@ -27,6 +27,6 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolviment
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataspatrimonium&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspatrimonium&layout=compact&langs_count=7&theme=dracula"/>
 </div>
----
-<!-- ...existing code... -->
--->
+
+### 
+![Snake Animation](https://github.com/JonatasPatrimonium/JonatasPatrimonium/blob/output/github-contribution-grid-snake-dark.svg)
