@@ -14,7 +14,7 @@
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e inovação. Aqui você encontrará projetos, experimentos e contribuições que refletem minha jornada como desenvolvedor.
 
 - 💻 Desenvolvedor focado em soluções criativas e eficientes
-- � Sempre aprendendo e compartilhando conhecimento
+- ✍️ Sempre aprendendo e compartilhando conhecimento
 - 🤝 Aberto a colaborações e novos desafios
 - 🌱 Explorando novas tecnologias e boas práticas
 
